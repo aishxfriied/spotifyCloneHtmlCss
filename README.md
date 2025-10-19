@@ -1,8 +1,7 @@
 # Spotify Clone - React Version
 
 **Project Name:** Spotify Clone – React Version  
-**Repo:** [USERNAME/spotifyCloneHtmlCss](https://github.com/USERNAME/spotifyCloneHtmlCss)  
-*(Replace with your actual GitHub repository link)*
+**Repo:** [aishxfriied/spotifyCloneHtmlCss](https://github.com/aishxfriied/spotifyCloneHtmlCss)  
 
 ## Description  
 This is a modern React clone of the Spotify interface, converted from the original HTML/CSS version.  
@@ -50,7 +49,7 @@ The project demonstrates:
 ## Setup & Running Locally  
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/USERNAME/spotifyCloneHtmlCss.git
+   git clone https://github.com/aishxfriied/spotifyCloneHtmlCss.git
    cd spotifyCloneHtmlCss
    ```
 
