@@ -31,3 +31,19 @@ Clone the repository:
 ```bash
 git clone https://github.com/YOUR_USERNAME/spotify‑clone.git
 cd spotify‑clone
+
+Install dependencies:
+
+npm install
+# or
+yarn install
+
+
+Run the development server:
+
+npm run dev
+# or
+yarn dev
+
+
+Open your browser and go to: http://localhost:3000
