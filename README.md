@@ -26,24 +26,21 @@ No frameworks — built from scratch to show proficiency in vanilla web tech.
 
 ## Installation
 
-Clone the repository:
+To run the project locally:
 
-```bash
-git clone https://github.com/YOUR_USERNAME/spotify‑clone.git
-cd spotify‑clone
+# Clone the repository
+git clone https://github.com/YOUR_USERNAME/spotify-clone.git
+cd spotify-clone
 
-Install dependencies:
-
+# Install dependencies
 npm install
 # or
 yarn install
 
-
-Run the development server:
-
+# Run the development server
 npm run dev
 # or
 yarn dev
 
-
-Open your browser and go to: http://localhost:3000
+# Open your browser
+http://localhost:3000
