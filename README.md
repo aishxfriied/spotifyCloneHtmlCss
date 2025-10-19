@@ -24,23 +24,14 @@ The project is structured to be clean, responsive and easily extendible.
 - (Future) Java – to demonstrate backend or logic capabilities  
 No frameworks — built from scratch to show proficiency in vanilla web tech.
 
-## Installation
+### Installation
 
-To run the project locally:
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/spotifyCloneHtmlCss.git
+   cd spotifyCloneHtmlCss
+   ```
 
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/spotify-clone.git
-cd spotify-clone
-
-# Install dependencies
-npm install
-# or
-yarn install
-
-# Run the development server
-npm run dev
-# or
-yarn dev
-
-# Open your browser
-http://localhost:3000
+2. **Open your browser:**
+   Just open the index.html file in your browser or
+   Navigate to [http://localhost:3000](http://localhost:3000)
